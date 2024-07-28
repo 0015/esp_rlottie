@@ -1,9 +1,0 @@
-description: ESP rLottie For LVGL
-documentation: https://github.com/0015/esp_rlottie
-issues: https://github.com/0015/esp_rlottie/issues
-repository: git://github.com/0015/esp_rlottie.git
-repository_info:
-  commit_sha: 
-  path: .
-url: https://github.com/0015/esp_rlottie
-version: 0.2.0
